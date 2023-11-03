@@ -1,6 +1,5 @@
 // Practical task 2
 console.log('Movin');
-
 // Practical task 3
 let firstVariable, secondVariable;
 firstVariable = 42;
@@ -31,7 +30,7 @@ let nullVariable = null;
 console.log(typeof undefinedVariable, typeof nullVariable);
 // Practical task 7
 let userName = prompt('Please, enter your Name', 'Mykola');
-let email = prompt('Pleas, enter your Email', 'example@gmail.com');
+let email = prompt('Please, enter your Email', 'example@gmail.com');
 let password = prompt('Please, enter your password', 'strongPassword');
 let message = alert(`"Dear ${userName}, your email is ${email}, your password is ${password}`);
 // Practical task 8
